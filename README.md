@@ -71,7 +71,7 @@ Now, we can finally run our project!  To launch our project from the terminal wi
 
 One launched, you should see output like this:
 
-![run output](http://demo.kevinwhinnery.com/upload/starter-cloud9_-_Cloud9-20130827-090805.png)
+![run output](https://dl.dropboxusercontent.com/u/461614/hello.png)
 
 Note the URL that is displayed on the last line - this is the address of your running web app on the public internet!  Open this URL in your web browser, and you should see something like:
 
