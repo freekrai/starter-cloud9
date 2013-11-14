@@ -16,9 +16,9 @@ In the resulting popup, choose "Clone from URL":
 
 ![clone from URL](http://demo.kevinwhinnery.com/upload/Fullscreen-20130827-080032.png?bustgithubcache=true)
 
-In the modal window, enter the URL for this repository (https://github.com/twilio/starter-cloud9.git), then click "Create":
+In the modal window, enter the URL for this repository (https://github.com/freekrai/starter-cloud9.git), then click "Create":
 
-![modal](http://demo.kevinwhinnery.com/upload/Dashboard_-_Cloud9-20130827-080236.png)
+![modal](https://dl.dropboxusercontent.com/u/461614/startc9.png)
 
 Cloud9 will take a few seconds to provision a new Ruby development environment for you.  During this time, you will be sent back to your dashboard, and will see your new project in the left-hand navigation with a "processing" indicator under it.  Once it is ready to use, the project name will appear in bold.  Click your new project to select it, and then click "Start Editing":
 
