@@ -1,6 +1,8 @@
-# Welcome to the Cloud9 Guild!
+# Welcome to the Cloud9 Twilio Starter!
 
-As members of the Cloud9 guild, you will be working through the challenges of TwilioQuest using the Ruby programming language and the Cloud9 browser-based IDE.  This project is pre-configured to do some interesting Twilio stuff using Ruby and the light-weight Sinatra web framework, and to be easily installable into the Cloud9 environment.
+Today, you will be working through the challenges of learning to use Twilio using the Ruby programming language and the Cloud9 browser-based IDE.  
+
+This project is pre-configured to do some interesting Twilio stuff using Ruby and the light-weight Sinatra web framework, and to be easily installable into the Cloud9 environment.
 
 ## Setting Up
 
@@ -96,6 +98,3 @@ To stop your server, click on the Terminal window of your Cloud9 IDE.  Then, hit
 __TIP:__ Press "up" on your keyboard in the Terminal to recall your last command.  This will be faster than typing `ruby app.rb -p $PORT -o $IP` every time.
 
 Now, navigate to your app's main web page and run the messaging demo.  You should now get a different message than you did the first time.  Repeat this process every time you change code in your application.
-
-## Begin Questing!
-This is but your first step into a larger world.  [Return to TwilioQuest](http://quest.twilio.com) to continue your adventure.  Huzzah!
