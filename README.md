@@ -6,7 +6,7 @@ This project is pre-configured to do some interesting Twilio stuff using Ruby an
 
 ## Setting Up
 
-Now we need to configure Cloud9 IDE to help us write Ruby code for our TwilioQuest.  The awesome part about Cloud9 is there is no software to dowload and install - we just need to sign up for an account and start writing code!
+Now we need to configure Cloud9 IDE to help us write Ruby code for our Twilio Workshop.  The awesome part about Cloud9 is there is no software to dowload and install - we just need to sign up for an account and start writing code!
 
 Your first step will be [signing up for a free account with Cloud9](https://c9.io/site/pricing/).  Once you have successfully signed up for an account, you must [go to your account dashboard from the home page](https://c9.io/).  On your dashboard, click "Create New Workspace":
 
@@ -28,7 +28,7 @@ This will bring you to the editor view.  This is where you will select and edit 
 
 ![Cloud9 IDE](http://demo.kevinwhinnery.com/upload/starter-cloud9_-_Cloud9-20130827-081045.png)
 
-Now, let's configure and run your TwilioQuest app!
+Now, let's configure and run your Twilio app!
 
 ## Running the Application
 Before we can actually run our app, we need to configure our development environment with a few pieces of information.  The first things we will need to configure are our Twilio "Account SID" and "auth token".  These are like our username and password for the Twilio API.  You can find these values [on your Twilio account dashboard](https://www.twilio.com/user/account).  If you haven't already, you will also need to [sign up for a Twilio account](https://www.twilio.com/try-twilio).
@@ -80,7 +80,7 @@ Note the URL that is displayed on the last line - this is the address of your ru
 Now, you should be able to run through the voice and SMS demos on the page, after entering in your mobile phone number.
 
 ## Making Code Changes
-During your quest, you'll probably be making code changes, tweaking this sample project to do interesting things with the Twilio API.  After editing files and changing code, you'll need to stop and restart your Ruby server.
+During this workshop, you'll probably be making code changes, tweaking this sample project to do interesting things with the Twilio API.  After editing files and changing code, you'll need to stop and restart your Ruby server.
 
 To practice this, open `app.rb` in the Cloud9 editor.  Change the body of the text message sent for the "message" demo, [which happens on line 26](https://github.com/twilio/starter-cloud9/blob/master/app.rb#L26):
 
