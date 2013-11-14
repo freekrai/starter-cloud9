@@ -71,11 +71,11 @@ Now, we can finally run our project!  To launch our project from the terminal wi
 
 One launched, you should see output like this:
 
-![run output](https://dl.dropboxusercontent.com/u/461614/hello.png)
+![run output](http://demo.kevinwhinnery.com/upload/starter-cloud9_-_Cloud9-20130827-090805.png)
 
 Note the URL that is displayed on the last line - this is the address of your running web app on the public internet!  Open this URL in your web browser, and you should see something like:
 
-![cloud9 guild](http://demo.kevinwhinnery.com/upload/Welcome_to_the_Cloud9_Guild%21-20130827-090940.png)
+![cloud9 guild](https://dl.dropboxusercontent.com/u/461614/hello.png)
 
 Now, you should be able to run through the voice and SMS demos on the page, after entering in your mobile phone number.
 
